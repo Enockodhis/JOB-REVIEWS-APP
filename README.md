@@ -1,5 +1,5 @@
 # JOB-REVIEWS-APP
-This platform typically allow users to search for specific roles and read reviews from current and former employees. They can be valuable resources for job seekers looking to gain insight into potential employers before making a decision.
+This platform typically allow users to search for specific roles and read reviews from current and former employees. They can be valuable resources for job seekers looking to gain insight into potential employers before making a decision. Here is hyperlink to this project: https://jobreviewsapp.netlify.app/
 
 ![image](https://github.com/Enockodhis/JOB-REVIEWS-APP/assets/107674019/3761697e-b8ee-4e6d-b842-21ef77e9711c)
 
